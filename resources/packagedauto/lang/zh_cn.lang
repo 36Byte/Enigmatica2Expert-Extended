@@ -1,0 +1,3 @@
+#PARSE_ESCAPES
+item.packagedauto.guide.landing=介绍$(#822)封包合成（PackagedAuto）/$的基础用法，包括配方编码、封包与解包，以及 ME 网络联动。
+item.packagedauto.guide.subtitle=封包自动化

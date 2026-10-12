@@ -1,0 +1,15 @@
+{
+  "name": "浸水土壤",
+  "icon": "floralchemy:flooded_soil",
+  "category": "blocks_category",
+  "pages": [
+    {
+      "type": "text",
+      "text": "你从未见过这样的耕地——浸水土壤堪称湿润土壤的强化版。它最多能容纳一桶任意流体。当其中的流体超过 200mB 时，它会不时尝试将部分流体传递给相邻的浸水土壤，让流体逐步扩散。"
+    },
+    {
+      "type": "crafting",
+      "recipe": "floralchemy:flooded_soil"
+    }
+  ]
+}
