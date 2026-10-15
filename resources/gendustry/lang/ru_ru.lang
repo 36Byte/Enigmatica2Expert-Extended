@@ -50,3 +50,22 @@ gendustry.honeydrop.tinker.name=Тинкерская капля мёда
 gendustry.honeydrop.artisan.name=Ремесленниковая капля мёда
 gendustry.honeydrop.selfish.name=Эгоистичная капля мёда
 gendustry.honeydrop.narcissistic.name=Самовлюбленная капля мёда
+
+# Additional Russian translations; pre-existing entries retained.
+gendustry.label.items=%s предметов
+gendustry.cover.label=Крышка: %s
+gendustry.cover.error.message=Будет выдавать сигнал красного камня при обнаружении %s
+gendustry.cover.error.hint=(Нажмите на крышку пустой рукой для изменения)
+gendustry.cover.error.any=Любая ошибка
+gendustry.cover.error.none=Нет ошибки
+gendustry.chromosome.COCOON=Кокон
+gendustry.chromosome.FIREPROOF=Огнеупорность
+gendustry.chromosome.CARBONIZATION=Карбонизация
+gendustry.chromosome.COMBUSTIBILITY=Воспламеняемость
+gendustry.chromosome.TOLERATES_RAIN=Устойчивость к дождю
+gendustry.chromosome.NEVER_SLEEPS=Не спит
+gendustry.req.message=Особые требования
+gendustry.bees.species.derpious=Дерпиус
+gendustry.bees.species.derpious.description=Любопытный экземпляр: похоже, больше всего любит разбрасывать цветы и валять дурака.
+itemGroup.bdew.hives=Пользовательские ульи
+gendustry.errorstate.ok=Нет ошибки
