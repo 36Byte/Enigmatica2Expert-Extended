@@ -7,7 +7,7 @@
       "type": "spotlight+",
       "item": "gendustry:replicator",
       "link_recipe": true,
-      "text": "<li>使用<l>(misc/resources#dna)液态基因</l>、<l>(misc/resources#protein)蛋白质</l>和完整的<l>(misc/crafting_material#gene_template)基因模板</l>制造新的生物<li>这台机器制造的蜜蜂始终属于低劣品系"
+      "text": "<li>使用<l>(misc/resources#dna)液态基因</l>、<l>(misc/resources#protein)蛋白质</l>和完整的<l>(misc/crafting_material#gene_template)基因模板</l>制造新的生物<li>这台机器制造的蜜蜂始终属于卑贱种"
     },
     {
       "type": "crafting+",

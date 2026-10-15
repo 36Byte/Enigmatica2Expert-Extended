@@ -7,7 +7,7 @@
       "type": "spotlight+",
       "item": "gendustry:imprinter",
       "link_recipe": true,
-      "text": "<li>消耗右上方槽位中的<l>(misc/crafting_material#labware)基因药皿</l><li>左上方槽位中的<l>(misc/crafting_material#gene_template)基因模板</l>不会被消耗<li>一次性将模板中包含的所有性状写入生物<li>人工来源的生物（即低劣品系）有概率无法存活于压印过程"
+      "text": "<li>消耗右上方槽位中的<l>(misc/crafting_material#labware)基因药皿</l><li>左上方槽位中的<l>(misc/crafting_material#gene_template)基因模板</l>不会被消耗<li>一次性将模板中包含的所有性状写入生物<li>人工来源的生物（即卑贱种）有概率无法存活于压印过程"
     },
     {
       "type": "crafting+",

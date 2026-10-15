@@ -1,10 +1,10 @@
 {
-  "name": "魔法豆",
+  "name": "魔豆",
   "icon": "cyclicmagic:sprout_seed",
   "category": "World",
   "pages": [
     {
-      "title": "魔法豆掉落物",
+      "title": "魔豆掉落物",
       "type": "grid",
       "item0": "minecraft:air",
       "item1": "minecraft:apple",
@@ -50,7 +50,7 @@
       "item41": "minecraft:dye:10"
     },
     {
-      "title": "魔法豆掉落物",
+      "title": "魔豆掉落物",
       "type": "grid",
       "item0": "minecraft:dye:11",
       "item1": "minecraft:dye:12",
@@ -96,7 +96,7 @@
       "item41": "minecraft:quartz"
     },
     {
-      "title": "魔法豆掉落物",
+      "title": "魔豆掉落物",
       "type": "grid",
       "item0": "minecraft:rabbit_foot",
       "item1": "minecraft:rabbit_hide",
@@ -142,7 +142,7 @@
       "item41": "minecraft:stained_glass_pane:14"
     },
     {
-      "title": "魔法豆掉落物",
+      "title": "魔豆掉落物",
       "type": "grid",
       "item0": "minecraft:stained_glass_pane:15",
       "item1": "minecraft:stained_glass:1",
@@ -188,7 +188,7 @@
       "item41": "minecraft:wool:1"
     },
     {
-      "title": "魔法豆掉落物",
+      "title": "魔豆掉落物",
       "type": "grid",
       "item0": "minecraft:wool:2",
       "item1": "minecraft:wool:3",
@@ -234,7 +234,7 @@
       "item41": "appliedenergistics2:paint_ball:32"
     },
     {
-      "title": "魔法豆掉落物",
+      "title": "魔豆掉落物",
       "type": "grid",
       "item0": "appliedenergistics2:paint_ball:33",
       "item1": "appliedenergistics2:paint_ball:34",
@@ -280,7 +280,7 @@
       "item41": "biomesoplenty:flower_0:1"
     },
     {
-      "title": "魔法豆掉落物",
+      "title": "魔豆掉落物",
       "type": "grid",
       "item0": "biomesoplenty:flower_0:2",
       "item1": "biomesoplenty:flower_0:3",
@@ -326,7 +326,7 @@
       "item41": "biomesoplenty:leaves_4:11"
     },
     {
-      "title": "魔法豆掉落物",
+      "title": "魔豆掉落物",
       "type": "grid",
       "item0": "biomesoplenty:leaves_5:8",
       "item1": "biomesoplenty:leaves_5:9",
@@ -372,7 +372,7 @@
       "item41": "biomesoplenty:plant_1:11"
     },
     {
-      "title": "魔法豆掉落物",
+      "title": "魔豆掉落物",
       "type": "grid",
       "item0": "biomesoplenty:sapling_0",
       "item1": "biomesoplenty:sapling_0:1",
@@ -418,7 +418,7 @@
       "item41": "botania:dye:15"
     },
     {
-      "title": "魔法豆掉落物",
+      "title": "魔豆掉落物",
       "type": "grid",
       "item0": "botania:flower",
       "item1": "botania:flower:1",
@@ -464,7 +464,7 @@
       "item41": "danknull:dank_null_panel_0"
     },
     {
-      "title": "魔法豆掉落物",
+      "title": "魔豆掉落物",
       "type": "grid",
       "item0": "danknull:dank_null_panel_1",
       "item1": "danknull:dank_null_panel_2",
@@ -510,7 +510,7 @@
       "item41": "darkutils:trap_move_fast"
     },
     {
-      "title": "魔法豆掉落物",
+      "title": "魔豆掉落物",
       "type": "grid",
       "item0": "darkutils:trap_move_hyper",
       "item1": "darkutils:wither_block",
@@ -556,7 +556,7 @@
       "item41": "enderio:block_fused_glass:2"
     },
     {
-      "title": "魔法豆掉落物",
+      "title": "魔豆掉落物",
       "type": "grid",
       "item0": "enderio:block_fused_glass:3",
       "item1": "enderio:block_fused_glass:4",
@@ -602,7 +602,7 @@
       "item41": "enderio:block_holy_dark_fused_quartz:12"
     },
     {
-      "title": "魔法豆掉落物",
+      "title": "魔豆掉落物",
       "type": "grid",
       "item0": "enderio:block_holy_dark_fused_quartz:13",
       "item1": "enderio:block_holy_dark_fused_quartz:14",
@@ -648,7 +648,7 @@
       "item41": "enderio:block_holy_fused_glass:6"
     },
     {
-      "title": "魔法豆掉落物",
+      "title": "魔豆掉落物",
       "type": "grid",
       "item0": "enderio:block_holy_fused_glass:7",
       "item1": "enderio:block_holy_fused_glass:8",
@@ -694,7 +694,7 @@
       "item41": "enderio:block_not_holy_dark_fused_glass:15"
     },
     {
-      "title": "魔法豆掉落物",
+      "title": "魔豆掉落物",
       "type": "grid",
       "item0": "enderio:block_not_holy_dark_fused_quartz",
       "item1": "enderio:block_not_holy_dark_fused_quartz:1",
@@ -740,7 +740,7 @@
       "item41": "enderio:block_not_holy_enlightened_fused_quartz:9"
     },
     {
-      "title": "魔法豆掉落物",
+      "title": "魔豆掉落物",
       "type": "grid",
       "item0": "enderio:block_not_holy_enlightened_fused_quartz:10",
       "item1": "enderio:block_not_holy_enlightened_fused_quartz:11",
@@ -786,7 +786,7 @@
       "item41": "enderio:block_not_pasture_dark_fused_glass:3"
     },
     {
-      "title": "魔法豆掉落物",
+      "title": "魔豆掉落物",
       "type": "grid",
       "item0": "enderio:block_not_pasture_dark_fused_glass:4",
       "item1": "enderio:block_not_pasture_dark_fused_glass:5",
@@ -832,7 +832,7 @@
       "item41": "enderio:block_not_pasture_enlightened_fused_glass:13"
     },
     {
-      "title": "魔法豆掉落物",
+      "title": "魔豆掉落物",
       "type": "grid",
       "item0": "enderio:block_not_pasture_enlightened_fused_glass:14",
       "item1": "enderio:block_not_pasture_enlightened_fused_glass:15",
@@ -878,7 +878,7 @@
       "item41": "enderio:block_not_pasture_fused_quartz:7"
     },
     {
-      "title": "魔法豆掉落物",
+      "title": "魔豆掉落物",
       "type": "grid",
       "item0": "enderio:block_not_pasture_fused_quartz:8",
       "item1": "enderio:block_not_pasture_fused_quartz:9",
@@ -924,7 +924,7 @@
       "item41": "enderio:block_not_unholy_enlightened_fused_glass:1"
     },
     {
-      "title": "魔法豆掉落物",
+      "title": "魔豆掉落物",
       "type": "grid",
       "item0": "enderio:block_not_unholy_enlightened_fused_glass:2",
       "item1": "enderio:block_not_unholy_enlightened_fused_glass:3",
@@ -970,7 +970,7 @@
       "item41": "enderio:block_not_unholy_fused_glass:11"
     },
     {
-      "title": "魔法豆掉落物",
+      "title": "魔豆掉落物",
       "type": "grid",
       "item0": "enderio:block_not_unholy_fused_glass:12",
       "item1": "enderio:block_not_unholy_fused_glass:13",
@@ -1016,7 +1016,7 @@
       "item41": "enderio:block_pasture_dark_fused_quartz:5"
     },
     {
-      "title": "魔法豆掉落物",
+      "title": "魔豆掉落物",
       "type": "grid",
       "item0": "enderio:block_pasture_dark_fused_quartz:6",
       "item1": "enderio:block_pasture_dark_fused_quartz:7",
@@ -1062,7 +1062,7 @@
       "item41": "enderio:block_pasture_enlightened_fused_quartz:15"
     },
     {
-      "title": "魔法豆掉落物",
+      "title": "魔豆掉落物",
       "type": "grid",
       "item0": "enderio:block_pasture_fused_glass",
       "item1": "enderio:block_pasture_fused_glass:1",
@@ -1108,7 +1108,7 @@
       "item41": "enderio:block_unholy_dark_fused_glass:9"
     },
     {
-      "title": "魔法豆掉落物",
+      "title": "魔豆掉落物",
       "type": "grid",
       "item0": "enderio:block_unholy_dark_fused_glass:10",
       "item1": "enderio:block_unholy_dark_fused_glass:11",
@@ -1154,7 +1154,7 @@
       "item41": "enderio:block_unholy_enlightened_fused_quartz:3"
     },
     {
-      "title": "魔法豆掉落物",
+      "title": "魔豆掉落物",
       "type": "grid",
       "item0": "enderio:block_unholy_enlightened_fused_quartz:4",
       "item1": "enderio:block_unholy_enlightened_fused_quartz:5",
@@ -1200,7 +1200,7 @@
       "item41": "enderio:block_unholy_fused_quartz:13"
     },
     {
-      "title": "魔法豆掉落物",
+      "title": "魔豆掉落物",
       "type": "grid",
       "item0": "enderio:block_unholy_fused_quartz:14",
       "item1": "enderio:block_unholy_fused_quartz:15",
@@ -1246,7 +1246,7 @@
       "item41": "extrautils2:ingredients"
     },
     {
-      "title": "魔法豆掉落物",
+      "title": "魔豆掉落物",
       "type": "grid",
       "item0": "extrautils2:ironwood_leaves",
       "item1": "extrautils2:ironwood_leaves:1",
@@ -1292,7 +1292,7 @@
       "item41": "iceandfire:chared_gravel"
     },
     {
-      "title": "魔法豆掉落物",
+      "title": "魔豆掉落物",
       "type": "grid",
       "item0": "iceandfire:chared_stone",
       "item1": "iceandfire:dragon_ice",
@@ -1338,7 +1338,7 @@
       "item41": "industrialforegoing:laser_lens_inverted:1"
     },
     {
-      "title": "魔法豆掉落物",
+      "title": "魔豆掉落物",
       "type": "grid",
       "item0": "industrialforegoing:laser_lens_inverted:2",
       "item1": "industrialforegoing:laser_lens_inverted:3",
@@ -1384,7 +1384,7 @@
       "item41": "mekanism:glowpanel:6"
     },
     {
-      "title": "魔法豆掉落物",
+      "title": "魔豆掉落物",
       "type": "grid",
       "item0": "mekanism:glowpanel:7",
       "item1": "mekanism:glowpanel:8",
@@ -1430,7 +1430,7 @@
       "item41": "psi:cad_colorizer_:5"
     },
     {
-      "title": "魔法豆掉落物",
+      "title": "魔豆掉落物",
       "type": "grid",
       "item0": "psi:cad_colorizer_:6",
       "item1": "psi:cad_colorizer_:7",
@@ -1476,7 +1476,7 @@
       "item41": "quark:crystal_pane:2"
     },
     {
-      "title": "魔法豆掉落物",
+      "title": "魔豆掉落物",
       "type": "grid",
       "item0": "quark:crystal_pane:3",
       "item1": "quark:crystal_pane:4",
@@ -1522,7 +1522,7 @@
       "item41": "quark:quilted_wool:12"
     },
     {
-      "title": "魔法豆掉落物",
+      "title": "魔豆掉落物",
       "type": "grid",
       "item0": "quark:quilted_wool:13",
       "item1": "quark:quilted_wool:14",
@@ -1568,7 +1568,7 @@
       "item41": "randomthings:grassseeds:8"
     },
     {
-      "title": "魔法豆掉落物",
+      "title": "魔豆掉落物",
       "type": "grid",
       "item0": "randomthings:grassseeds:9",
       "item1": "randomthings:grassseeds:10",
@@ -1614,7 +1614,7 @@
       "item41": "randomthings:stainedbrick:13"
     },
     {
-      "title": "魔法豆掉落物",
+      "title": "魔豆掉落物",
       "type": "grid",
       "item0": "randomthings:stainedbrick:14",
       "item1": "randomthings:stainedbrick:15",
@@ -1660,7 +1660,7 @@
       "item41": "rustic:leaves:1"
     },
     {
-      "title": "魔法豆掉落物",
+      "title": "魔豆掉落物",
       "type": "grid",
       "item0": "rustic:marsh_mallow",
       "item1": "rustic:mooncap_mushroom",
@@ -1706,7 +1706,7 @@
       "item41": "tconstruct:slime_grass_tall:9"
     },
     {
-      "title": "魔法豆掉落物",
+      "title": "魔豆掉落物",
       "type": "grid",
       "item0": "tconstruct:slime_leaves",
       "item1": "tconstruct:slime_leaves:1",
@@ -1752,7 +1752,7 @@
       "item41": "thaumcraft:nitor_lightblue"
     },
     {
-      "title": "魔法豆掉落物",
+      "title": "魔豆掉落物",
       "type": "grid",
       "item0": "thaumcraft:nitor_lime",
       "item1": "thaumcraft:nitor_magenta",
@@ -1798,7 +1798,7 @@
       "item41": "thermalfoundation:dye:11"
     },
     {
-      "title": "魔法豆掉落物",
+      "title": "魔豆掉落物",
       "type": "grid",
       "item0": "thermalfoundation:dye:12",
       "item1": "thermalfoundation:dye:13",
@@ -1844,7 +1844,7 @@
       "item41": "twilightforest:twilight_plant:5"
     },
     {
-      "title": "魔法豆掉落物",
+      "title": "魔豆掉落物",
       "type": "grid",
       "item0": "twilightforest:twilight_plant:6",
       "item1": "twilightforest:twilight_plant:7",

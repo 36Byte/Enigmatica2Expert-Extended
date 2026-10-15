@@ -12,7 +12,7 @@
       "item1": "packagedexcrafting:ender_crafter",
       "item2": "extendedcrafting:ender_alternator",
       "title": "使用方法",
-      "text": "使用$(item)末影封包合成器/$时，在周围的 7×7×7 区域内放置$(item)末影交替器/$。$(p)$(item)末影封包合成器/$会将合成产物输出到相邻容器中。$(p)$(item)末影封包合成器/$需要能量。"
+      "text": "使用$(item)末影封包合成器/$时，在周围的 7×7×7 区域内放置$(item)末影发电机/$。$(p)$(item)末影封包合成器/$会将合成产物输出到相邻容器中。$(p)$(item)末影封包合成器/$需要能量。"
     },
     {
       "type": "text",

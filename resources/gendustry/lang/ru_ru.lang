@@ -1,4 +1,7 @@
 #PARSE_ESCAPES
+# Gendustry 1.6.5.8 matches config locale suffixes case-sensitively.
+# Lower-case client locales do not match bees.zh_CN.lang / bees.ru_RU.lang.
+# Keep resource translations for these clients; config files remain available.
 gendustry.bees.species.wacky=Чокнутая
 gendustry.bees.species.chilled=Прохладная
 gendustry.bees.species.oozy=Илистая

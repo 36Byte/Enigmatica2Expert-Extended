@@ -5,7 +5,7 @@
   "pages": [
     {
       "type": "text",
-      "text": "$(item)封包配方编码器/$将配方写入$(l:core/recipe_holder)封包配方存储器/$，再由储存器为机器提供配方数据。"
+      "text": "$(item)封包配方编码器/$将配方写入$(l:core/recipe_holder)封包配方存储器/$，再由存储器为机器提供配方数据。"
     },
     {
       "type": "spotlight",

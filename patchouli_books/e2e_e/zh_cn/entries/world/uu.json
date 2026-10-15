@@ -4,7 +4,7 @@
   "category": "World",
   "pages": [
     {
-      "title": "复制物品一览",
+      "title": "可复制物品排序",
       "type": "grid",
       "item0": "rftools:shape_card",
       "item1": "teslacorelib:base_addon",
@@ -50,7 +50,7 @@
       "item41": "minecraft:string"
     },
     {
-      "title": "复制物品一览",
+      "title": "可复制物品排序",
       "type": "grid",
       "item0": "opencomputers:material:7",
       "item1": "thermalfoundation:material:23",
@@ -96,7 +96,7 @@
       "item41": "thermalfoundation:material:131"
     },
     {
-      "title": "复制物品一览",
+      "title": "可复制物品排序",
       "type": "grid",
       "item0": "thermalfoundation:material:323",
       "item1": "advancedrocketry:misc:1",
@@ -142,7 +142,7 @@
       "item41": "thermalfoundation:material:321"
     },
     {
-      "title": "复制物品一览",
+      "title": "可复制物品排序",
       "type": "grid",
       "item0": "thermalfoundation:material:771",
       "item1": "opencomputers:material:9",
@@ -188,7 +188,7 @@
       "item41": "minecraft:wool:4"
     },
     {
-      "title": "复制物品一览",
+      "title": "可复制物品排序",
       "type": "grid",
       "item0": "minecraft:wool:5",
       "item1": "minecraft:wool:6",
@@ -234,7 +234,7 @@
       "item41": "harvestcraft:walleyerawitem"
     },
     {
-      "title": "复制物品一览",
+      "title": "可复制物品排序",
       "type": "grid",
       "item0": "integrateddynamics:crystalized_menril_chunk",
       "item1": "minecraft:brown_mushroom",
@@ -280,7 +280,7 @@
       "item41": "integrateddynamics:menril_log"
     },
     {
-      "title": "复制物品一览",
+      "title": "可复制物品排序",
       "type": "grid",
       "item0": "minecraft:log2",
       "item1": "minecraft:log2:1",
@@ -326,7 +326,7 @@
       "item41": "minecraft:coal_block"
     },
     {
-      "title": "复制物品一览",
+      "title": "可复制物品排序",
       "type": "grid",
       "item0": "minecraft:sticky_piston",
       "item1": "ic2:dust:1",
@@ -372,7 +372,7 @@
       "item41": "thaumcraft:pedestal_arcane"
     },
     {
-      "title": "复制物品一览",
+      "title": "可复制物品排序",
       "type": "grid",
       "item0": "ic2:plate:10",
       "item1": "ic2:plate:4",
@@ -418,7 +418,7 @@
       "item41": "immersiveengineering:material:9"
     },
     {
-      "title": "复制物品一览",
+      "title": "可复制物品排序",
       "type": "grid",
       "item0": "immersiveengineering:metal_device0",
       "item1": "thaumcraft:mechanism_simple",
@@ -464,7 +464,7 @@
       "item41": "appliedenergistics2:material:5"
     },
     {
-      "title": "复制物品一览",
+      "title": "可复制物品排序",
       "type": "grid",
       "item0": "nuclearcraft:part:6",
       "item1": "ic2:plate:12",
@@ -510,7 +510,7 @@
       "item41": "mysticalagriculture:tin_essence"
     },
     {
-      "title": "复制物品一览",
+      "title": "可复制物品排序",
       "type": "grid",
       "item0": "thermalfoundation:material:101",
       "item1": "thermalfoundation:material:165",
@@ -556,7 +556,7 @@
       "item41": "thermalfoundation:material:770"
     },
     {
-      "title": "复制物品一览",
+      "title": "可复制物品排序",
       "type": "grid",
       "item0": "nuclearcraft:alloy_furnace",
       "item1": "nuclearcraft:alloy:6",
@@ -602,7 +602,7 @@
       "item41": "thaumcraft:nitor_cyan"
     },
     {
-      "title": "复制物品一览",
+      "title": "可复制物品排序",
       "type": "grid",
       "item0": "thaumcraft:nitor_gray",
       "item1": "thaumcraft:nitor_green",
@@ -648,7 +648,7 @@
       "item41": "appliedenergistics2:sky_stone_block"
     },
     {
-      "title": "复制物品一览",
+      "title": "可复制物品排序",
       "type": "grid",
       "item0": "botania:manaresource:15",
       "item1": "nuclearcraft:compound:10",
@@ -694,7 +694,7 @@
       "item41": "mysticalagriculture:gold_essence"
     },
     {
-      "title": "复制物品一览",
+      "title": "可复制物品排序",
       "type": "grid",
       "item0": "mysticalagriculture:knightmetal_essence",
       "item1": "mysticalagriculture:lapis_lazuli_essence",
@@ -740,7 +740,7 @@
       "item41": "thaumcraft:ore_cinnabar"
     },
     {
-      "title": "复制物品一览",
+      "title": "可复制物品排序",
       "type": "grid",
       "item0": "thermalfoundation:material:25",
       "item1": "extrautils2:machine",
@@ -786,7 +786,7 @@
       "item41": "actuallyadditions:item_crystal:1"
     },
     {
-      "title": "复制物品一览",
+      "title": "可复制物品排序",
       "type": "grid",
       "item0": "ic2:dust:5",
       "item1": "thermalfoundation:upgrade",
@@ -832,7 +832,7 @@
       "item41": "thermalfoundation:material:293"
     },
     {
-      "title": "复制物品一览",
+      "title": "可复制物品排序",
       "type": "grid",
       "item0": "ic2:lapotron_crystal",
       "item1": "actuallyadditions:block_crystal:1",
@@ -878,7 +878,7 @@
       "item41": "thermalfoundation:material:2049"
     },
     {
-      "title": "复制物品一览",
+      "title": "可复制物品排序",
       "type": "grid",
       "item0": "cyclicmagic:ender_eye_orb",
       "item1": "thermalfoundation:material:1025",
@@ -924,7 +924,7 @@
       "item41": "thermalfoundation:material:26"
     },
     {
-      "title": "复制物品一览",
+      "title": "可复制物品排序",
       "type": "grid",
       "item0": "thermalfoundation:material:261",
       "item1": "immersiveengineering:metal_device1:8",
@@ -970,7 +970,7 @@
       "item41": "mekanism:basicblock:4"
     },
     {
-      "title": "复制物品一览",
+      "title": "可复制物品排序",
       "type": "grid",
       "item0": "computercraft:computer:16384",
       "item1": "thermalfoundation:material:1027",
@@ -1016,7 +1016,7 @@
       "item41": "botania:storage:3"
     },
     {
-      "title": "复制物品一览",
+      "title": "可复制物品排序",
       "type": "grid",
       "item0": "astralsorcery:itemcraftingcomponent:3",
       "item1": "enderio:item_alloy_ingot:2",
@@ -1062,7 +1062,7 @@
       "item41": "thermalfoundation:material:893"
     },
     {
-      "title": "复制物品一览",
+      "title": "可复制物品排序",
       "type": "grid",
       "item0": "thermalfoundation:material:894",
       "item1": "thermalfoundation:material:895",
@@ -1108,7 +1108,7 @@
       "item41": "mysticalagriculture:ingot_storage"
     },
     {
-      "title": "复制物品一览",
+      "title": "可复制物品排序",
       "type": "grid",
       "item0": "advancedrocketry:productplate:1",
       "item1": "deepmoblearning:soot_covered_plate",
@@ -1154,7 +1154,7 @@
       "item41": "libvulpes:metal0:7"
     },
     {
-      "title": "复制物品一览",
+      "title": "可复制物品排序",
       "type": "grid",
       "item0": "libvulpes:productgem",
       "item1": "minecraft:emerald_ore",
@@ -1200,7 +1200,7 @@
       "item41": "bloodmagic:blood_shard"
     },
     {
-      "title": "复制物品一览",
+      "title": "可复制物品排序",
       "type": "grid",
       "item0": "mysticalagriculture:crafting:35",
       "item1": "astralsorcery:itemcoloredlens:6",
@@ -1246,7 +1246,7 @@
       "item41": "ic2:iridium_reflector"
     },
     {
-      "title": "复制物品一览",
+      "title": "可复制物品排序",
       "type": "grid",
       "item0": "thermalexpansion:frame:131",
       "item1": "enderio:item_material:18",
@@ -1292,7 +1292,7 @@
       "item41": "actuallyadditions:item_misc:19"
     },
     {
-      "title": "复制物品一览",
+      "title": "可复制物品排序",
       "type": "grid",
       "item0": "environmentaltech:void_ore_miner_cont_1",
       "item1": "extrautils2:simpledecorative:2",
@@ -1338,7 +1338,7 @@
       "item41": "environmentaltech:void_res_miner_cont_3"
     },
     {
-      "title": "复制物品一览",
+      "title": "可复制物品排序",
       "type": "grid",
       "item0": "extendedcrafting:material:18",
       "item1": "environmentaltech:ionite_crystal",
@@ -1384,7 +1384,7 @@
       "item41": "environmentaltech:void_ore_miner_cont_6"
     },
     {
-      "title": "复制物品一览",
+      "title": "可复制物品排序",
       "type": "grid",
       "item0": "draconicevolution:reactor_part:2",
       "item1": "extrautils2:rainbowgenerator:1",
@@ -1430,7 +1430,7 @@
       "item41": "extendedcrafting:material:19"
     },
     {
-      "title": "复制物品一览",
+      "title": "可复制物品排序",
       "type": "grid",
       "item0": "draconicevolution:fusion_crafting_core",
       "item1": "extendedcrafting:singularity:50",
